@@ -1,0 +1,3 @@
+userservice port=9001
+contactservice port=9002
+apigateway=8999
